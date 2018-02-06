@@ -269,6 +269,7 @@
   .navbar .navbar-brand {
     color: #0a0a56;
     filter: brightness(.9);
+    margin-right: 0;
   }
   .navbar .navbar-brand:hover {
     filter: brightness(1);
